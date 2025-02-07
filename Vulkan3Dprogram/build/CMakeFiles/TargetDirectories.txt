@@ -1,0 +1,3 @@
+/home/daxter/Рабочий стол/MIPYcpp/Vulkan3Dprogram/build/CMakeFiles/Vulkan3Dprogram.dir
+/home/daxter/Рабочий стол/MIPYcpp/Vulkan3Dprogram/build/CMakeFiles/edit_cache.dir
+/home/daxter/Рабочий стол/MIPYcpp/Vulkan3Dprogram/build/CMakeFiles/rebuild_cache.dir
